@@ -1,5 +1,3 @@
-package ProjetoP2;
-
 public class Filme extends Midia {
     private int duracao;
     private String diretor;
@@ -31,3 +29,4 @@ public class Filme extends Midia {
         System.out.printf("Diretor: %s%n", diretor);
     }
 }   
+
