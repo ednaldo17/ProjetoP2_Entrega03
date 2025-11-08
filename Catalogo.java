@@ -1,5 +1,3 @@
-package ProjetoP2;
-
 import java.util.ArrayList;
 
 public class Catalogo {
@@ -80,3 +78,4 @@ public class Catalogo {
         System.out.println("Nenhuma mídia encontrada com o ID informado.");
     }   
 }
+
