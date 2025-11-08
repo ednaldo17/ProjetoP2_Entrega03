@@ -1,5 +1,3 @@
-package ProjetoP2;
-
 public class Serie extends Midia{
     private int temporadas;
     private int episodiosTotais;
@@ -30,3 +28,4 @@ public class Serie extends Midia{
         System.out.printf("Temporadas: %d | Episódios Totais: %d%n", temporadas, episodiosTotais);
     }
 }
+
