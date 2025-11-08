@@ -1,5 +1,3 @@
-package ProjetoP2;
-
 public class Midia {
     private int id;
     private String titulo;
@@ -95,3 +93,4 @@ public class Midia {
     }
 
 }   
+
