@@ -1,5 +1,3 @@
-package ProjetoP2;
-
 import java.util.ArrayList;
 
 public class Usuario {
@@ -82,4 +80,5 @@ public class Usuario {
         System.out.printf("'%s' recebeu nova avaliação: %.1f%n", m.getTitulo(), novaNota);
         m.setAvaliacao(novaNota);
     }
+
 }
